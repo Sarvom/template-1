@@ -82,49 +82,49 @@ logo: $assets.files.images.ape.jpg
 
 -- lib.carousel: Speakers
 
--- lib.blog-1: Jozef Jagan
-pic: $assets.files.images.ape.jpg
-title: Wallet Hunter
+-- lib.blog-1: John Doe 
+pic: $assets.files.images.ape-1.jpg
+title: Doe Company
 number: 1
 
--- lib.blog-1: Mirzad Makhdoom
-pic: $assets.files.images.ape.jpg
-title: Tribe Academy
+-- lib.blog-1: John Doe
+pic: $assets.files.images.ape-1.jpg
+title: Doe Company
 number: 2
 
--- lib.blog-1: Vijay Pravin
-pic: $assets.files.images.ape.jpg
-title: BitsCrunch 
+-- lib.blog-1: John Doe
+pic: $assets.files.images.ape-1.jpg
+title: Doe Company 
 number: 3
 
--- lib.blog-1: Deep
-pic: $assets.files.images.ape.jpg
-title: Google Cloud 
+-- lib.blog-1: John Doe
+pic: $assets.files.images.ape-1.jpg
+title: Doe Company 
 number: 4
 
--- lib.blog-1: Vivek Prasannan
-pic: $assets.files.images.ape.jpg
-title: Polkadex 
+-- lib.blog-1: John Doe
+pic: $assets.files.images.ape-1.jpg
+title: Doe Company 
 number: 5
 
--- lib.blog-1: Aditi Gupta
-pic: $assets.files.images.ape.jpg
-title: Nordek 
+-- lib.blog-1: John Doe
+pic: $assets.files.images.ape-1.jpg
+title: Doe Company 
 number: 6
 
--- lib.blog-1: Krutika Lodaya
-pic: $assets.files.images.ape.jpg
-title: Wallet Hunter 
+-- lib.blog-1: John Doe
+pic: $assets.files.images.ape-1.jpg
+title: Doe Company 
 number: 7
 
--- lib.blog-1: Sangeet Muralidhar
-pic: $assets.files.images.ape.jpg
-title: KONMA DAO 
+-- lib.blog-1: John Doe
+pic: $assets.files.images.ape-1.jpg
+title: Doe Company 
 number: 8
 
--- lib.blog-1: Sneha Vijayan
-pic: $assets.files.images.ape.jpg
-title: Resolutio & DLA
+-- lib.blog-1: John Doe
+pic: $assets.files.images.ape-1.jpg
+title: Doe Company
 number: 9
 
 -- end: lib.carousel
