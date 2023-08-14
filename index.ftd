@@ -1,6 +1,6 @@
--- import: web3innovatorsnexus.xyz/lib
--- import: web3innovatorsnexus.xyz/images
--- import: web3innovatorsnexus.xyz/web-components
+-- import: sarvom.github.io/template-1/lib
+-- import: sarvom.github.io/template-1/images
+-- import: sarvom.github.io/template-1/web-components
 
 -- lib.page:
 cta-text-1: Home
