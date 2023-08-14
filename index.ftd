@@ -1,0 +1,144 @@
+-- import: web3innovatorsnexus.xyz/lib
+-- import: web3innovatorsnexus.xyz/images
+-- import: web3innovatorsnexus.xyz/web-components
+
+-- lib.page:
+cta-text-1: Home
+cta-text-2: About
+cta-text-3: Partners
+cta-text-4: Speakers
+cta-button-1: Register
+logo: $assets.files.images.ape.jpg
+
+-- lib.hero: Event Heading
+text-1: XX YY ZZZZ
+text-2: Xpm - Ypm
+text-3: Meeting Place
+cta-button-1: Register Now
+
+Fostering the growth of startups in the transformative world of Web Development.
+
+-- lib.about: About Lorem Ipsum
+pic: $assets.files.images.ape.jpg
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam rutrum interdum eros, at 
+rhoncus ex dapibus eget. Integer scelerisque velit ac sapien convallis, sed efficitur nunc 
+posuere. Duis ut mi et ligula tristique semper vitae in felis. Donec eget neque ante. 
+Integer pharetra scelerisque nisi, ac efficitur eros aliquam eu. Vivamus ante mi, 
+fringilla quis tortor vitae, interdum pellentesque felis. Nunc a lacus in libero eleifend 
+ultricies quis a ipsum. Curabitur convallis ipsum at suscipit varius. Nunc a dignissim 
+erat. Aenean suscipit erat a eros bibendum, a elementum leo faucibus. Quisque vestibulum 
+turpis non odio euismod malesuada. Fusce vel sapien vel odio dignissim sagittis.
+
+
+-- lib.sponsor-section: Organized by
+
+-- lib.sponsor-card: 
+logo: $assets.files.images.ape.jpg
+ 
+-- end: lib.sponsor-section
+
+-- lib.sponsor-section: In Assoication with
+
+-- lib.sponsor-card: 
+logo: $assets.files.images.ape.jpg
+
+-- lib.sponsor-card: 
+logo: $assets.files.images.ape.jpg
+
+-- lib.sponsor-card: Kerala Startup Mission 
+logo: $assets.files.images.ape.jpg
+
+-- lib.sponsor-card: 
+logo: $assets.files.images.ape.jpg
+
+-- lib.sponsor-card: 
+logo: $assets.files.images.ape.jpg
+
+-- lib.sponsor-card: 
+logo: $assets.files.images.ape.jpg
+ 
+-- end: lib.sponsor-section
+
+-- ftd.row:
+width: fill-container
+wrap if { ftd.device == "mobile" } : true
+
+-- lib.sponsor-section: Technology Partner
+
+-- lib.sponsor-card: 
+logo: $assets.files.images.ape.jpg
+ 
+-- end: lib.sponsor-section
+
+-- lib.sponsor-section: Academy Partner
+
+-- lib.sponsor-card: 
+logo: $assets.files.images.ape.jpg
+ 
+-- end: lib.sponsor-section
+
+-- end: ftd.row
+
+-- lib.carousel: Speakers
+
+-- lib.blog-1: Jozef Jagan
+pic: $assets.files.images.ape.jpg
+title: Wallet Hunter
+number: 1
+
+-- lib.blog-1: Mirzad Makhdoom
+pic: $assets.files.images.ape.jpg
+title: Tribe Academy
+number: 2
+
+-- lib.blog-1: Vijay Pravin
+pic: $assets.files.images.ape.jpg
+title: BitsCrunch 
+number: 3
+
+-- lib.blog-1: Deep
+pic: $assets.files.images.ape.jpg
+title: Google Cloud 
+number: 4
+
+-- lib.blog-1: Vivek Prasannan
+pic: $assets.files.images.ape.jpg
+title: Polkadex 
+number: 5
+
+-- lib.blog-1: Aditi Gupta
+pic: $assets.files.images.ape.jpg
+title: Nordek 
+number: 6
+
+-- lib.blog-1: Krutika Lodaya
+pic: $assets.files.images.ape.jpg
+title: Wallet Hunter 
+number: 7
+
+-- lib.blog-1: Sangeet Muralidhar
+pic: $assets.files.images.ape.jpg
+title: KONMA DAO 
+number: 8
+
+-- lib.blog-1: Sneha Vijayan
+pic: $assets.files.images.ape.jpg
+title: Resolutio & DLA
+number: 9
+
+-- end: lib.carousel
+
+;;-- ftd.column:
+;;width: fill-container
+;;height.fixed.px: 1200
+;;align-content: center
+;;background.solid: Red
+
+;;-- web-components.carousel:
+
+;;-- end: ftd.column
+
+-- end: lib.page
+
+
